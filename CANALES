@@ -1,8 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", Max Prime
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", HBO
 http://cdn89.sportsbay.site:2052/live-2/114/chunks.m3u8?nimblesessionid=172018435&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDc6MTM6MTcgQU0maGFzaF92YWx1ZT1vQ0dFRk5hUXplK0lQU3ZrcnBrMGV3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", HBO2
+http://cdn89.sportsbay.site:2052/live-2/118/chunks.m3u8?nimblesessionid=172042297&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDEwOjQwOjM0IEFNJmhhc2hfdmFsdWU9T0U5bUVsTTJDeFUrWDhSTkd3MS91dz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
 
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", STAR ACTION
 http://cdn89.sportsbay.site:2052/live-sd/344/chunks.m3u8?nimblesessionid=172039346&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDEwOjEyOjM2IEFNJmhhc2hfdmFsdWU9ZEh0cGFPbXlPaHV6R1hTMW5rZDZJUT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
