@@ -3,3 +3,6 @@
 
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", Max Prime
 http://cdn89.sportsbay.site:2052/live-2/114/chunks.m3u8?nimblesessionid=172018435&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDc6MTM6MTcgQU0maGFzaF92YWx1ZT1vQ0dFRk5hUXplK0lQU3ZrcnBrMGV3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+
+#EXTINF:-1, WIN SPORTS
+http://cdn89.sportsbay.site:2052/live-2/461/l_1736356_43956961_23240.ts?nimblesessionid=172031168&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDg6NDQ6NDEgQU0maGFzaF92YWx1ZT01UU1aOVdYaFVvWmdBMU1oNDNXZkJBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
