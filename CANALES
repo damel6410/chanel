@@ -10,6 +10,9 @@ http://cdn89.sportsbay.site:2052/live-sd/344/chunks.m3u8?nimblesessionid=1720393
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", STAR CINEMA
 http://cdn89.sportsbay.site:2052/live-2/093/chunks.m3u8?nimblesessionid=172039944&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDEwOjE4OjQxIEFNJmhhc2hfdmFsdWU9b1BoZmxHUGVVYmE3ZjVDMWVaYWd5dz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
 
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="CINE", STAR COMEDY
+http://cdn89.sportsbay.site:2052/live-2/097/chunks.m3u8?nimblesessionid=172040465&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDEwOjIzOjQzIEFNJmhhc2hfdmFsdWU9ZEIzQmF4YzBLVGdDcC9nZG5JMDNvdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=
+
 #EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-Atdq5-hrhmg/TvtVTY_6bRI/AAAAAAAAAxM/0NEOw_seIho/s1600/maxprime.jpg" group-title="DEPORTES", WIN SPORTS +
 http://cdn89.sportsbay.site:2052/live-2/461/chunks.m3u8?nimblesessionid=172033910&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNS8yMDIxIDk6MTA6MzUgQU0maGFzaF92YWx1ZT13dE9Id1RIcUwyNlVHVG9GTnBnWnNRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
 
